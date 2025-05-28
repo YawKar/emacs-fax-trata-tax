@@ -1,7 +1,7 @@
-;; 
+;;
 (defun b ()
   aaa)
 
 (message "%s"
-	 (let ((aaa 300))
-	   (b)))
+         (let ((aaa 300))
+           (b)))
